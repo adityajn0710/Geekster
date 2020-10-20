@@ -1,3 +1,4 @@
+
 package oct3Class2;
 
 import java.util.Scanner;
