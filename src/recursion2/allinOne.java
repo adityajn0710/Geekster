@@ -1,4 +1,4 @@
-package Recursion18_10;
+package recursion2;
 
 public class allinOne {
 

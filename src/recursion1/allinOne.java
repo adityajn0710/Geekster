@@ -1,4 +1,4 @@
-package Recursion17_10;
+package recursion1;
 
 public class allinOne {
 	public static void main(String[] args) {
